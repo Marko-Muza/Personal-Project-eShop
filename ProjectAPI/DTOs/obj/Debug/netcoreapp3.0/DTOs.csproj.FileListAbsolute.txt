@@ -1,0 +1,16 @@
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.deps.json
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.dll
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.pdb
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.csprojAssemblyReference.cache
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.AssemblyInfo.cs
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.dll
+C:\Users\AP LAB\source\repos\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.pdb
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.deps.json
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.dll
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\bin\Debug\netcoreapp3.0\DTOs.pdb
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.AssemblyInfo.cs
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.dll
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.pdb
+C:\Users\AP LAB\App\ProjekatAPI\DTOs\obj\Debug\netcoreapp3.0\DTOs.csprojAssemblyReference.cache
